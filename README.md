@@ -1,4 +1,5 @@
 # BTC
-Subbu Srikantam
+Subbu Srikantam,
 IIT Bombay
-BTC price prediction
+- BTC price prediction
+
